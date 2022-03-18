@@ -1,2 +1,1 @@
-Официальная страница "Лаборатории 42"
-![42](../assets/42.png)
+![42](https://github.com/42praktika/.github/blob/main/assets/42.png)
